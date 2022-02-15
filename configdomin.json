@@ -11,12 +11,12 @@
     {
       "id": 1,
       "name": "English",
-      "data_url": ""
+      "data_url": "https://raw.githubusercontent.com/fransto1/devfnf/main/data-en.json"
     },
     {
       "id": 2,
       "name": "Indonesia",
-      "data_url": ""
+      "data_url": "https://raw.githubusercontent.com/fransto1/devfnf/main/data-id.json"
     }
   ]
 }
