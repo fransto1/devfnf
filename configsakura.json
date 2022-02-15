@@ -1,0 +1,22 @@
+{
+  "version_code": 1,
+  "redirect_mode": false,
+  "new_package": "com.one.two.three",
+   "applovin_ads": true,
+  "remot_ads": true,
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "content": [
+    {
+      "id": 1,
+      "name": "English",
+      "data_url": ""
+    },
+    {
+      "id": 2,
+      "name": "Indonesia",
+      "data_url": ""
+    }
+  ]
+}
