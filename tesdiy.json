@@ -7,7 +7,7 @@
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "applovin_id": "65d8d0195e50bda6",
+  "APPLOVIN_INTERSTITIAL_UNIT_ID": "65d8d0195e50bda6",
   "content": [
     {
       "id": 1,
