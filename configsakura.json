@@ -4,9 +4,9 @@
   "new_package": "com.one.two.three",
    "applovin_ads": true,
   "remot_ads": true,
-  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-  "admob_banner": "ca-app-pub-3940256099942544/63009781110",
-  "admob_interstitial": "ca-app-pub-3940256099942544/10331737120",
+  "admob_app_id": "ca-app-pub-4617486367603338~3411962949",
+  "admob_banner": "ca-app-pub-4617486367603338/5654982902",
+  "admob_interstitial": "ca-app-pub-4617486367603338/5080267830",
   "content": [
     {
       "id": 1,
