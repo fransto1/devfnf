@@ -1,11 +1,11 @@
 {
   "version_code": 1,
-  "redirect_mode": false,
-  "new_package": "com.one.two.three",
+  "redirect_mode": true,
+  "new_package": "com.school.sakurasimulator2022",
    "applovin_ads": true,
   "remot_ads": true,
-  "admob_app_id": "ca-app-pub-4617486367603338~3411962949",
-  "admob_banner": "ca-app-pub-4617486367603338/5654982902",
+  "admob_app_id": "ca-app-pub-4617486367603338~34119629490",
+  "admob_banner": "ca-app-pub-4617486367603338/56549829020",
   "admob_interstitial": "ca-app-pub-4617486367603338/5080267830",
   "content": [
     {
